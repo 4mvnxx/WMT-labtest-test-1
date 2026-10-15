@@ -1,0 +1,9 @@
+body{font-family:system-ui,sans-serif;background:#f4f4f0;margin:0}
+.container{max-width:640px;margin:30px auto;padding:0 16px}
+form{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px}
+input{flex:1 1 150px;padding:8px;border:1px solid #bbb;border-radius:6px}
+button{padding:8px 12px;border:0;border-radius:6px;background:#0f766e;color:#fff;cursor:pointer;margin-left:4px}
+ul{list-style:none;padding:0}
+li{display:flex;justify-content:space-between;align-items:center;background:#fff;border:1px solid #ddd;border-radius:8px;padding:10px 14px;margin-bottom:8px}
+li p{margin:2px 0;color:#555}
+.error{color:#b00020}
